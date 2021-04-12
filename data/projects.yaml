@@ -1,0 +1,27 @@
+- name: "MIPS SIMULATION"
+  company: "Texas State University"
+  link: "https://github.com/MarcosAIM/MIPS-SIM"
+  date: "2020"
+  details: "A 5 stage proccesor simulator that reads MIPS instructions 
+            and displays the results."
+
+- name: "8-Puzzle"
+  company: "Texas State University"
+  link: "https://github.com/MarcosAIM/8-Puzzle"
+  date: "2020"
+  details: "An algorithm that uses the A* search algorithm to find the 
+            solution to the 8-puzzle game."
+
+- name: "Ideas"
+  company: "Texas State University"
+  link: "https://github.com/MarcosAIM/Ideas"
+  date: "2020"
+  details: "A website developed using django and React/Redux where the user
+            create and delete ideas."
+
+- name: "Ideas"
+  company: "Texas State University"
+  link: "https://github.com/MarcosAIM/GameOfLife"
+  date: "2020"
+  details: "A program that uses the Game of Life rules to display the 
+            iterations generated."

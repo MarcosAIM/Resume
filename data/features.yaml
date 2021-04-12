@@ -1,0 +1,45 @@
+skills:
+  - "Python - R - SQL"
+  - "InfluxDB/TICK Stack"
+  - "Grafana - PowerBI"
+  - "Excel - Minitab - SPSS"
+  - "GAMS - OR-Tools - IBM CPLEX"
+  - "C# - Git - Docker - NGINX"
+
+skillsGrouped:
+  - groupName: "Programming languages"
+    skills: ["Python","JavaScript","Java", "C++", "C"]
+ 
+  - groupName: "Data Analysis"
+    skills: ["SQL"]
+  
+  - groupName: "FrameWorks"
+    skills: ["Django - React"]
+
+  - groupName: "Programming & Systems"
+    skills: ["Git - Docker - NGINX - TravisCI", "Linux"]
+
+interests:
+  - "Data Science"
+  - "AI Applications"
+  - "Optimization Problems"
+  - "Games"
+  - "Continous Development"
+  - "Cloud Development"
+
+languages:
+  - name: "Spanish"
+    level: "Native"
+
+  - name: "English"
+    level: "Native"
+
+about:
+  - name: "Marcos Izaguirre"
+    tagline: "Student"
+    phone: ""
+    linkedin: "/in/mertbakir"
+    email: "marcosaizg@gmail.com"
+    details: "Student who enjoys working with others to develop software efficiently. 
+              Fluent in C++, python, and can quickly learn frameworks and other languages used to develop software. 
+              Seeking a position in developing and maintaing software for others."

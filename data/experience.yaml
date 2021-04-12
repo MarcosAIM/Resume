@@ -1,0 +1,28 @@
+- company: 
+  roles:
+    - role: 
+      details: "Collaborated with team of 4 in the development of 
+                turn based game using Agile/SCRUM methodology and Travis-CI."
+
+- company: 
+  roles:
+    - role: 
+      details: "Collaborated with team of 2 in the development of 
+                Puzzle Solver using an A.I algorithm."
+
+- company: 
+  roles:
+    - role: 
+      details: "Developed a Compiler for a C-like language with a 
+                partner."
+
+- company: 
+  roles:
+    - role: 
+      details: "Tested Software for Performance Metrics, speed and 
+                memory management."
+
+- company: 
+  roles:
+    - role: 
+      details: "Developed a Simulated RISC Architecture with python."
