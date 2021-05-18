@@ -19,7 +19,7 @@
   details: "A website developed using django and React/Redux where the user
             create and delete ideas."
 
-- name: "Ideas"
+- name: "Game Of Life"
   company: "Texas State University"
   link: "https://github.com/MarcosAIM/GameOfLife"
   date: "2020"
